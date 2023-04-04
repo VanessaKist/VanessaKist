@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 <!--
 **VanessaKist/VanessaKist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 Hello! I am Vanessa, I'm a Software Engineering Student from Brazil. Currently learning C and Python.
 
-<h3>Things I code with</h3>
+<h3>TOOLS</h3>
 <p>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&amp;logoColor=white&amp;style=for-the-badge" alt="badge">
-![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)</p>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&amp;logoColor=white&amp;style=for-the-badge" alt="badge">
+<img src="https://img.shields.io/badge/python-3670A0?logo=python&amp;logoColor=ffdd54&amp;style=for-the-badge" alt="badge">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&amp;logoColor=white&amp;style=for-the-badge" alt="badge">
+<img src="https://img.shields.io/badge/github-%23121011.svg?logo=github&amp;logoColor=white&amp;style=for-the-badge" alt="badge">
+</p>
