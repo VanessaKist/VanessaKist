@@ -18,7 +18,7 @@ Hello! I am Vanessa, a passionate Software Engineering Student from Brazil. Alwa
 
 <h3>&#128295; TOOLS</h3>
 <p style='font-size:20px;'>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&amp;logoColor=white&amp;style=for-the-badge" alt="badge">
+<img style='font-size:20px;'src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&amp;logoColor=white&amp;style=for-the-badge" alt="badge">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&amp;logoColor=white&amp;style=for-the-badge" alt="badge">
 <img src="https://img.shields.io/badge/python-3670A0?logo=python&amp;logoColor=ffdd54&amp;style=for-the-badge" alt="badge">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&amp;logoColor=white&amp;style=for-the-badge" alt="badge">
