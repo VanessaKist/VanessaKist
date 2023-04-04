@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hello! I am Vanessa, I'm a Software Engineering Student from Brazil. Currently learning C and Python.
 
-<h3>TOOLS</h3>
+<h3>&#128295;TOOLS</h3>
 <p>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&amp;logoColor=white&amp;style=for-the-badge" alt="badge">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&amp;logoColor=white&amp;style=for-the-badge" alt="badge">
